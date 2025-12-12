@@ -8,7 +8,7 @@
 
 # I'm a
 
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer;DevOps+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer;Dev+Freelance;Full+Stack+Developer)](https://git.io/typing-svg)
 
 
 ---
